@@ -5,4 +5,4 @@ During this hackathon we tried to solve an educational problem: to help people l
 
 🧙 [sef-near](https://github.com/humans-meta/sef-near) is a smart contract + frontend for adding and removing META Assets: https://create.nearcon2022.humans.work
  
-🍿 [near-content](https://github.com/humans-meta/near-content) is a sample repo of META Assets
+🍿 [near-content](https://github.com/humans-meta/near-content) is a sample repo of META Assets: animated blockchains and validators, NPCs
