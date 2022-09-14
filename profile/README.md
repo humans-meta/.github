@@ -1,5 +1,5 @@
 ## NEARCON 2022 SUBMISSION
-During this hackathon we implemented and fully open-sourced a Metaverse with UGC on top of NEAR Protocol:
+During this hackathon we implemented and fully open-sourced a Metaverse with META Assets on top of NEAR Protocol:
 
 🌈 [unity-renderer](https://github.com/humans-meta/unity-renderer) is a WebGL client which utilizes META Assets via NEAR Protocol: https://nearcon2022.humans.work
 
